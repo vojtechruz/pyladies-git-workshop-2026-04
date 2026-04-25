@@ -1,1 +1,6 @@
-print ("Jar jar jar")
+NUDA
+Nuda – prečo si tak nudná?
+Aspoň kebyže máš pláž,
+bola by si menej cudná.
+Ale takto s nervami sa hráš.
+print ("Jar jar jar to je ale nuda!")
