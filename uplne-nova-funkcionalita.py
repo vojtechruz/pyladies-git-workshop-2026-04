@@ -1,3 +1,3 @@
-print("Nova funcionalita !!!")
+print("Nova funkcionalita !!!")
 
 print("Novy commit")
